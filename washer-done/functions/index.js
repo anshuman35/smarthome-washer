@@ -18,6 +18,10 @@
 
 const functions = require('firebase-functions');
 const {smarthome} = require('actions-on-google');
+const {smarthome_1} = require('
+                       
+                              open required door
+                              ');
 const {google} = require('googleapis');
 const util = require('util');
 const admin = require('firebase-admin');
